@@ -1,5 +1,10 @@
 # 💫👋 Hi there! I'm MoyoDev:
-I'm currently working on 3D Clothing App: Creating a 3D visualization app for trying on outfits from top brands like Louis-Vuitton and High-Fashion.<br>I'm looking to collaborate with other to create cool things <br>You can ask me anything<br>Fun Fact :The first computer virus was created in 1983 by a 15-year-old high school student named Rich Skrenta. The virus, called "Elk Cloner," was written for Apple II systems and spread via floppy disks. It displayed a poem on the 50th boot of an infected system, making it one of the earliest examples of self-replicating software.
+I build and own full stack systems that turn product ideas into fast, scalable, and reliable applications designed for real users and rapid growth.
+My journey started with HTML and CSS and evolved into engineering modern systems using JavaScript/TypeScript, Python, Rust, and cloud-based architectures. Today, I work at the intersection of design, performance, and intelligent systems, focusing on building products that scale cleanly and ship quickly.
+I’m a Full Stack Developer with experience delivering AI powered tools, scalable backend systems, and high performance web applications. I take a design first approach to architecture, ensuring every feature balances usability, performance, and long term maintainability.
+I bridge design and logic from crafting intuitive interfaces to architecting the systems that power them while taking full ownership of features, iteration, and improvement in fast moving startup environments.
+I’m motivated by solving meaningful problems, building products that last, and contributing to ambitious teams shaping the future of technology.
+
 
 
 ## 🌐 Socials:
