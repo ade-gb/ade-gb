@@ -1,4 +1,4 @@
-# Hi, I'm <Moyodev> 👋
+# Hi, I'm Moyodev 👋
 
 Full Stack Developer | AI Powered Web Applications | SaaS & Startup Solutions
 Creative Developer | Web3 Builder 
